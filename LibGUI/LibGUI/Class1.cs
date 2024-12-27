@@ -14,6 +14,10 @@ namespace LibGUI
             this.BackColor = Color.FromArgb(175, 238, 238);
         }
     }
-
-
+    public class CustomTextBox : TextBox{
+        public CustomTextBox(){
+            this.BorderStyle = BorderStyle.FixedSingle;
+            this.Font = new Font("Arial", 12);
+        }
+    }
 }
