@@ -1,0 +1,6 @@
+C:\Users\Eduard\Desktop\Labaratory work\LibGUI\LibGUI\bin\Debug\LibGUI.dll
+C:\Users\Eduard\Desktop\Labaratory work\LibGUI\LibGUI\bin\Debug\LibGUI.pdb
+C:\Users\Eduard\Desktop\Labaratory work\LibGUI\LibGUI\obj\Debug\LibGUI.csproj.AssemblyReference.cache
+C:\Users\Eduard\Desktop\Labaratory work\LibGUI\LibGUI\obj\Debug\LibGUI.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\Desktop\Labaratory work\LibGUI\LibGUI\obj\Debug\LibGUI.dll
+C:\Users\Eduard\Desktop\Labaratory work\LibGUI\LibGUI\obj\Debug\LibGUI.pdb
