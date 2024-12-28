@@ -20,4 +20,14 @@ namespace LibGUI
             this.Font = new Font("Arial", 12);
         }
     }
+
+    public class CustomNumericUpDown : NumericUpDown
+    {
+        public CustomNumericUpDown()
+        {
+            this.BackColor = Color.FromArgb(175, 238, 238);
+            this.Maximum = 10000;
+            this.Minimum = 2;
+        }
+    }
 }
