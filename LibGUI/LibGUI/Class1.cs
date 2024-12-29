@@ -3,7 +3,7 @@ using System.Windows.Forms;
 using System.Drawing;
 using System.Linq;
 
-namespace LibGUI //test commit
+namespace LibGUI 
 {
     public class CustomButton : Button
     {
