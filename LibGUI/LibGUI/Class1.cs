@@ -30,4 +30,14 @@ namespace LibGUI //test commit
             this.Minimum = 2;
         }
     }
+
+    public class CustomLabel : Label
+    {
+        public CustomLabel()
+        {
+            this.Font = new Font("Arial", 10);
+            this.AutoSize = true;
+            this.ForeColor = Color.DarkBlue;
+        }
+    }
 }
