@@ -40,4 +40,9 @@ namespace LibGUI
             this.ForeColor = Color.DarkBlue;
         }
     }
+    public class CustomListBox : ListBox{
+        public CustomListBox(){
+            this.SelectionMode = SelectionMode.MultiExtended;
+        }
+    }
 }
